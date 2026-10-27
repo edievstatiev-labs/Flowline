@@ -2,7 +2,15 @@
 
 Checks below were observed during implementation on 27 October 2026. Browser results were reported by the integrating agent after exercising the running application. Current checks appear first; earlier checks remain as history and do not substitute for verification of the latest charts and drawer.
 
-## Repository submission audit
+## Current: README recording and demo data
+
+- **71 tests across 7 files pass**; production build, typecheck and static export pass. The new integration regression verifies visible and accessible 2.5% / 97.5% shares after a one-workflow correction. No inference change was made.
+- User-supplied dynamic CSV retained byte-for-byte with hash: 2,436 rows, 40 workflows, no invalid starts; all Unknown / Engineer review before correction. A separate 29-row teaching fixture is verified in the actual app: Daily and Hourly In scope; 30 minutes and Unknown Engineer review. Both source files and /data/ downloads are included.
+- Real browser walkthrough covers import, search, trace, Scatter, exact row 2396, reasoned correction, refresh/reimport persistence, reset, and export. Actual downloaded export has 40 rows and correct original/effective values/reason. Temporary correction reset after capture. Browser warning/error log is empty.
+- MP4 full decode passes: 30.7 seconds, 1328×996, 30 fps, H.264. GIF: 30.76 seconds, 1120×840, 246 frames, looping. Poster and representative import/trace/correction/export frames visually checked. Captions and progress framing sit outside the app; idle gaps omitted. The final export ending was recaptured after the percentage repair.
+- README uses an inline GIF linked to the MP4, with downloadable CSVs and expected simple-fixture results. Recording notes, timings and an actual demo export are included.
+
+## Earlier repository submission audit
 
 - Confirmed all four assignment deliverables and linked each from the README. SPEC.pdf is exactly one page and contains the definition of done and all five paired workflow examples.
 - Reran the current test suite: **70 tests across 7 files passed**. App/inference source and the previously verified production export are unchanged.

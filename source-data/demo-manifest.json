@@ -1,0 +1,14 @@
+[
+  {
+    "file": "dynamic_run_history.csv",
+    "sha256": "74d8e822a2966d1988cbddb395c9ae37351f627d3c9fefdf87d643da6498f319",
+    "bytes": 171296,
+    "description": "User-supplied demo input; exact original bytes. 2,436 rows / 40 workflows; all Unknown / Engineer review before correction."
+  },
+  {
+    "file": "simple_run_history.csv",
+    "sha256": "70dec7897a142d815268bd0de0e373ab82406bdc4bc8326416744f4899c6e5e7",
+    "bytes": 1411,
+    "description": "Additional synthetic teaching fixture: 29 runs / 4 workflows; daily, hourly, 30-minute and insufficient-history cases."
+  }
+]

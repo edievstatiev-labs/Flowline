@@ -2,6 +2,25 @@
 
 A browser prototype for deciding migration scope from incomplete run history. **Hourly or less frequent is in scope; faster or unknown goes to engineer review.** The included synthetic sample has 1,152 runs across 40 workflows: **32 in scope and 8 needing engineer review**, before corrections.
 
+## Demo
+
+[![Flowline: import, inspect, correct and export](docs/demo/flowline-demo.gif)](docs/demo/flowline-demo.mp4)
+
+**31-second walkthrough:** import CSV → find a workflow → inspect its trace and run chart → correct with a reason → export. [Watch/download the MP4](docs/demo/flowline-demo.mp4).
+
+The recording uses your [dynamic_run_history.csv](source-data/dynamic_run_history.csv): **2,436 runs, 40 workflows**. All 40 histories are irregular and remain Unknown / Engineer review before correction. The recorded Daily override is explicitly labelled **demo only**, with scheduler confirmation still required; it demonstrates the correction flow rather than proving a daily schedule.
+
+For a quick, readable test, upload [simple_run_history.csv](source-data/simple_run_history.csv): **29 runs, four workflows**.
+
+| Workflow | Expected frequency | Decision |
+|---|---|---|
+| `demo_daily` | Daily | In scope |
+| `demo_hourly` | Hourly | In scope |
+| `demo_every_30_minutes` | Every 30 minutes | Engineer review |
+| `demo_unknown` | Unknown: only one start | Engineer review |
+
+Both files are also served at `/data/` when the app is running. The original 1,152-run assignment sample remains the default.
+
 ## Run
 
 Use **Node.js 22.12 or newer**. The included static build needs no dependency installation:
@@ -49,7 +68,7 @@ Upload CSVs up to **10 MB** with `workflow_name,start_time,end_time,status` colu
 | AI prompts/conversations and time spent | [AI-use and time record](AI_USE.md), including actual mistakes and corrections |
 | Setup, assumptions, exclusions and likely failures | This README; [validation record](VALIDATION.md) provides test and browser evidence |
 
-[source-data/](source-data/) preserves the original CSV, feedback PDF, extracted text and hashes. The attachment labelled `feedback.md` actually serves a PDF. Source, locked dependencies, tests and the static build are included. The latest implementation passes **70 tests** and a production build.
+[source-data/](source-data/) preserves the original CSV, feedback PDF, extracted text and hashes. The attachment labelled `feedback.md` actually serves a PDF. Source, locked dependencies, tests and the static build are included. The latest implementation passes **71 tests** and a production build.
 
 [Dashboard preview](preview-desktop.jpg) · [Drawer preview](preview-drawer.jpg) · [Mobile preview](preview-mobile.jpg)
 

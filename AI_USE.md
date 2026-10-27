@@ -274,3 +274,20 @@ The user repeated the four required deliverables: one-page spec with done criter
 GitHub metadata confirmed an empty private repository with write access. Git was used for the initial bulk upload, including binaries and the static export; repository visibility was preserved. The generated out/ folder is intentionally tracked so cloning supports the documented no-install start command. Dependency folders, local Next build caches and environment files are excluded.
 
 This pass began **2026-10-27 21:32:26 UTC / 23:32:26 Europe/Sofia**; the submission audit/checkpoint completed at **21:33:26 UTC / 23:33:26 Europe/Sofia**, approximately **1 minute**. Measured implementation plus this submission audit totals approximately **1 hour 20 minutes 6 seconds**, plus approximately 5 minutes of initial planning and the separately noted untimed plan revision. Final Git transfer/remote verification is outside this timed checkpoint.
+
+
+## README demo recording and sample data
+
+User request (verbatim):
+
+> add a nice cool demo recording of the app main flow in the readme - also add simple data - use for the demo attached file.
+
+The supplied dynamic_run_history.csv was inspected as data only. Its exact bytes are retained with SHA-256 provenance: 2,436 rows, 40 workflows, no invalid starts. All 40 are Unknown / Engineer review under the unchanged conservative inference. A separate 29-row synthetic teaching fixture gives four readable Daily / Hourly / 30-minute / Unknown cases, with expected outcomes in the README. Neither input replaces the original assignment sample. Both files are supplied as source-data and downloadable static assets.
+
+The demo records real browser interaction through CUA: import the supplied dynamic file; search the engineer queue; open the decision trace; navigate the Bklit Scatter to the last run; inspect exact CSV row 2396; save a Daily demo override with the reason “Demo override only. Daily cadence still needs scheduler confirmation.”; and download the full review. The export was parsed and verified to contain 40 workflows, original Unknown, effective Daily / In scope, and the exact reason. The correction survived refresh/reimport and was reset through the app after recording. No correction is seeded into the submission.
+
+Browser captures were edited into a 30.7-second silent MP4 (1328×996, 30 fps) and a 30.76-second looping GIF (1120×840, 8 fps). Chapter captions and progress framing sit outside the actual UI; idle gaps between captured chapters were removed. UI data and states were not fabricated. The Remotion video skill's FFmpeg export guidance informed re-encoding; no Remotion runtime was added to the application. A temporary imageio-ffmpeg 0.6.0 installation supplied FFmpeg 7.1; it is a production tool, not an app dependency. The README embeds the GIF and links the MP4. Recording notes, timings, a poster and the actual demo CSV export accompany it. The full MP4 decodes successfully, GIF duration/frame count were checked, and representative frames were visually inspected.
+
+An actual issue found while recording: whole-percent legend rounding showed 1/40 and 39/40 as 3% and 98%. The app now uses Bklit's installed formatPercentage prop to display 2.5% and 97.5%; accessible labels match. A real integration regression covers both values. All **71 tests across 7 files** and the production build/typecheck/static export pass. The fixed ending was recaptured from the rebuilt app. Source manifests remain unchanged because vendor code was reused.
+
+This pass started **2026-10-27 21:44:25 UTC / 23:44:25 Europe/Sofia**. The final recording/data/build checkpoint was **2026-10-27 21:50:48 UTC**, after **6 minutes 23 seconds**. Measured implementation/submission work through this checkpoint totals approximately **1 hour 26 minutes 29 seconds**, plus approximately five minutes of initial planning and the separately noted untimed plan revision. This excludes user-wait intervals and final Git transfer/verification after the checkpoint.

@@ -1,0 +1,60 @@
+{
+  "duration_seconds": 30.7,
+  "width": 1328,
+  "height": 996,
+  "video_fps": 30,
+  "captured_frames": 307,
+  "source": "Real browser captures of the running static app, imported from dynamic_run_history.csv. Interactions captured at about 10 fps; chapter captions/frame/progress added in post. Idle gaps between capture chapters omitted. No UI state or data fabricated.",
+  "chapters": [
+    {
+      "start_seconds": 0.0,
+      "title": "Import your run history",
+      "caption": "The supplied CSV \u00b7 2,436 runs across 40 workflows"
+    },
+    {
+      "start_seconds": 3.2,
+      "title": "Find the workflow",
+      "caption": "Search the engineer-review queue"
+    },
+    {
+      "start_seconds": 5.7,
+      "title": "Understand the decision",
+      "caption": "Unknown stays with an engineer until it can be resolved"
+    },
+    {
+      "start_seconds": 9.5,
+      "title": "Inspect actual run starts",
+      "caption": "Source-clock timestamps, statuses and exact CSV rows"
+    },
+    {
+      "start_seconds": 13.5,
+      "title": "Go straight to the source",
+      "caption": "One click opens the selected CSV record"
+    },
+    {
+      "start_seconds": 15.4,
+      "title": "Correct with a reason",
+      "caption": "A deliberate review action, with original inference preserved"
+    },
+    {
+      "start_seconds": 17.9,
+      "title": "Keep the reason with the decision",
+      "caption": "Demo override only \u00b7 scheduler confirmation is still required"
+    },
+    {
+      "start_seconds": 21.8,
+      "title": "Save a traceable correction",
+      "caption": "Scope recomputes; the original Unknown result stays visible"
+    },
+    {
+      "start_seconds": 25.2,
+      "title": "Export the complete review",
+      "caption": "Original results + effective decisions + reasons"
+    },
+    {
+      "start_seconds": 28.9,
+      "title": "Ready for a migration review",
+      "caption": "Every inclusion is explainable. Every correction is retained."
+    }
+  ]
+}

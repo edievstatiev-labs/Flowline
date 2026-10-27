@@ -177,6 +177,8 @@ export function OverviewCharts({
   )
 }
 
+const formatShare = (value: number) => `${Number(value.toFixed(1))}%`
+
 // Use the same Bklit hover context for pointer, keyboard focus and touch preview.
 function LegendPreview() {
   const { setHoveredIndex } = useLegend()
@@ -185,7 +187,7 @@ function LegendPreview() {
     <Button
       variant="ghost"
       className="scope-legend-preview"
-      aria-label={`${item.label}: ${item.value} workflows, ${percentage.toFixed(0)}%`}
+      aria-label={`${item.label}: ${item.value} workflows, ${formatShare(percentage)}`}
       aria-pressed={isHovered}
       onFocus={() => setHoveredIndex(index)}
       onBlur={() => setHoveredIndex(null)}
@@ -199,6 +201,7 @@ function LegendPreview() {
       <LegendValue
         className="text-[13px]"
         percentageClassName="scope-share"
+        formatPercentage={formatShare}
         showPercentage
       />
     </Button>

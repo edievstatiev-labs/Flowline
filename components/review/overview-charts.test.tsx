@@ -109,6 +109,18 @@ describe("Linked Bklit overview", () => {
       "40"
     )
   })
+  it("preserves half-percent shares after a single workflow correction", async () => {
+    await act(async () =>
+      root.render(
+        <MotionConfig reducedMotion="always">
+          <OverviewCharts analysis={analysis} inScope={1} engineerReview={39} />
+        </MotionConfig>
+      )
+    )
+    expect(container.querySelector('button[aria-label="In scope: 1 workflows, 2.5%"]')).not.toBeNull()
+    expect(container.querySelector('button[aria-label="Engineer review: 39 workflows, 97.5%"]')).not.toBeNull()
+    expect([...container.querySelectorAll(".scope-share")].map((node) => node.textContent)).toEqual(["2.5%", "97.5%"])
+  })
   it("keeps gradient and mask ids unique when two overviews share a page", async () => {
     await render(true)
     const ids = [
