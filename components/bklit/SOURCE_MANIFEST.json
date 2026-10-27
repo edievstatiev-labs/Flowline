@@ -1,0 +1,810 @@
+[
+  {
+    "slug": "area-chart",
+    "source": "src/charts/area-chart.tsx",
+    "registry_target": "components/charts/area-chart.tsx",
+    "local": "components/bklit/area-chart.tsx",
+    "sha256_source": "e91553bbb29fb069a0bda0ecebdb2c9319226d65240e40e65a28177da067672b",
+    "sha256_local": "4681cdaa130cb929bee768f0565fcbdf6f179da521509755e5d02d32fb3371be"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/time-series-chart-shell.tsx",
+    "registry_target": "components/charts/time-series-chart-shell.tsx",
+    "local": "components/bklit/time-series-chart-shell.tsx",
+    "sha256_source": "0999409d43ea3584032a1779d823e90065cf7c548165ebb1ff726e9166814e91",
+    "sha256_local": "ccfe325d8483891308d6e6b25c7e957c67a3f44d725d3b02ec3e323c75a55a48"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/reference-area-registration-context.tsx",
+    "registry_target": "components/charts/reference-area-registration-context.tsx",
+    "local": "components/bklit/reference-area-registration-context.tsx",
+    "sha256_source": "1bdf081f8d454f6e9b678d4b470aabbade8fb7b47d9bcf8a44e05887e11aa347",
+    "sha256_local": "1bdf081f8d454f6e9b678d4b470aabbade8fb7b47d9bcf8a44e05887e11aa347"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/projection-config.ts",
+    "registry_target": "components/charts/projection-config.ts",
+    "local": "components/bklit/projection-config.ts",
+    "sha256_source": "fb7e04bbaac83119bcbe5fcfea4c2c713d80ec3cf65dc8a427d506edeca4bf59",
+    "sha256_local": "fb7e04bbaac83119bcbe5fcfea4c2c713d80ec3cf65dc8a427d506edeca4bf59"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/band-config.ts",
+    "registry_target": "components/charts/band-config.ts",
+    "local": "components/bklit/band-config.ts",
+    "sha256_source": "33ac4a3361d0ea0159475fcec6d02a7e97c017b0d48964793a0f4fddb83bcc60",
+    "sha256_local": "33ac4a3361d0ea0159475fcec6d02a7e97c017b0d48964793a0f4fddb83bcc60"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/projection-utils.ts",
+    "registry_target": "components/charts/projection-utils.ts",
+    "local": "components/bklit/projection-utils.ts",
+    "sha256_source": "a7d6c269220dcce466e2eaf620081d488fbef1a372ed3d9cff4fd76298232e0f",
+    "sha256_local": "a7d6c269220dcce466e2eaf620081d488fbef1a372ed3d9cff4fd76298232e0f"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/chart-child-passthrough.ts",
+    "registry_target": "components/charts/chart-child-passthrough.ts",
+    "local": "components/bklit/chart-child-passthrough.ts",
+    "sha256_source": "3a8eeaf2dca433f608839697810fb4890a082505b49b13202afad03024272ed1",
+    "sha256_local": "3a8eeaf2dca433f608839697810fb4890a082505b49b13202afad03024272ed1"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/series-bar-layout.ts",
+    "registry_target": "components/charts/series-bar-layout.ts",
+    "local": "components/bklit/series-bar-layout.ts",
+    "sha256_source": "3e834065bf086275b263b2f5a0737a544dc4dfbfc7aa533191fcd0365feefb2c",
+    "sha256_local": "3e834065bf086275b263b2f5a0737a544dc4dfbfc7aa533191fcd0365feefb2c"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/area.tsx",
+    "registry_target": "components/charts/area.tsx",
+    "local": "components/bklit/area.tsx",
+    "sha256_source": "ce52503ae7646ffc36cac1e774ef62580bbbcece38c852be48d40bf31a2f6524",
+    "sha256_local": "ce52503ae7646ffc36cac1e774ef62580bbbcece38c852be48d40bf31a2f6524"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/area-chart-loading.tsx",
+    "registry_target": "components/charts/area-chart-loading.tsx",
+    "local": "components/bklit/area-chart-loading.tsx",
+    "sha256_source": "f5338b2034e5972d7504817b9cfd10dc2ecbbdeb272ae057a186d4d258de808a",
+    "sha256_local": "f5338b2034e5972d7504817b9cfd10dc2ecbbdeb272ae057a186d4d258de808a"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/line-loading-pulse.tsx",
+    "registry_target": "components/charts/line-loading-pulse.tsx",
+    "local": "components/bklit/line-loading-pulse.tsx",
+    "sha256_source": "04ed94b7d657b8293ab8d56ce241b4cb73894d61fa5e9ca907d4a5fa80bedc4e",
+    "sha256_local": "04ed94b7d657b8293ab8d56ce241b4cb73894d61fa5e9ca907d4a5fa80bedc4e"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/loading-sweep.tsx",
+    "registry_target": "components/charts/loading-sweep.tsx",
+    "local": "components/bklit/loading-sweep.tsx",
+    "sha256_source": "70e3f62e75431d43cbe27830b3b5ccc6cf9c21441a0724bbcdc8a5f549dea48b",
+    "sha256_local": "70e3f62e75431d43cbe27830b3b5ccc6cf9c21441a0724bbcdc8a5f549dea48b"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/line-loading-timing.ts",
+    "registry_target": "components/charts/line-loading-timing.ts",
+    "local": "components/bklit/line-loading-timing.ts",
+    "sha256_source": "e2328b4a9502014022dd671c6086ede1b6bd4ce8da02f04a8d251634bee0e4f4",
+    "sha256_local": "4f6ce47c02bace175e3d633afe1be508cbcdf5c78e7397b2243e73b24b4b1995"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/chart-loading-label.tsx",
+    "registry_target": "components/charts/chart-loading-label.tsx",
+    "local": "components/bklit/chart-loading-label.tsx",
+    "sha256_source": "22ec5be1e783d307694172a493727d4c11262de2ff323a6d13ab6246bfe37450",
+    "sha256_local": "11e5943214edce11d0164a232dde679492433b2bca1433c6fa3946225acda4b7"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/pattern-area.tsx",
+    "registry_target": "components/charts/pattern-area.tsx",
+    "local": "components/bklit/pattern-area.tsx",
+    "sha256_source": "024d1ce0f4a5c75d8089918be0bd7abb3563be5de4c7e6f0f0aff846f5d5a82f",
+    "sha256_local": "024d1ce0f4a5c75d8089918be0bd7abb3563be5de4c7e6f0f0aff846f5d5a82f"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/area-value-labels.tsx",
+    "registry_target": "components/charts/area-value-labels.tsx",
+    "local": "components/bklit/area-value-labels.tsx",
+    "sha256_source": "c7173c832837b193cd971773e3a379639e2bfbc6187708e12a38d0b82ed9672b",
+    "sha256_local": "c7173c832837b193cd971773e3a379639e2bfbc6187708e12a38d0b82ed9672b"
+  },
+  {
+    "slug": "area-chart",
+    "source": "src/charts/area-value-label-layout.ts",
+    "registry_target": "components/charts/area-value-label-layout.ts",
+    "local": "components/bklit/area-value-label-layout.ts",
+    "sha256_source": "11753065b51f0a40fafe2e372dc4f58364db6dc063f56839684d38839ef2fc49",
+    "sha256_local": "11753065b51f0a40fafe2e372dc4f58364db6dc063f56839684d38839ef2fc49"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/animation.ts",
+    "registry_target": "components/charts/animation.ts",
+    "local": "components/bklit/animation.ts",
+    "sha256_source": "bd91d889c06e719f74069ee7141cf69a51e4f238e6b37f762399d239f1ea4521",
+    "sha256_local": "bd91d889c06e719f74069ee7141cf69a51e4f238e6b37f762399d239f1ea4521"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/motion-utils.ts",
+    "registry_target": "components/charts/motion-utils.ts",
+    "local": "components/bklit/motion-utils.ts",
+    "sha256_source": "42bee04facfc758f9a4b89607040a9e8bb40a5cfafe4bb4e363f1fcd1cb1f858",
+    "sha256_local": "42bee04facfc758f9a4b89607040a9e8bb40a5cfafe4bb4e363f1fcd1cb1f858"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/use-mount-progress.ts",
+    "registry_target": "components/charts/use-mount-progress.ts",
+    "local": "components/bklit/use-mount-progress.ts",
+    "sha256_source": "b92d47c939375b37e5aa5bc674e132e1b2e6fbde7cb0b73711325446ca178e19",
+    "sha256_local": "b92d47c939375b37e5aa5bc674e132e1b2e6fbde7cb0b73711325446ca178e19"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/use-enter-complete.ts",
+    "registry_target": "components/charts/use-enter-complete.ts",
+    "local": "components/bklit/use-enter-complete.ts",
+    "sha256_source": "f237dc0a73b6bfe77f8ceb15e5b52222dc77d5739ee7e1a560046712ded6b6cc",
+    "sha256_local": "f237dc0a73b6bfe77f8ceb15e5b52222dc77d5739ee7e1a560046712ded6b6cc"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/chart-reveal-clip.tsx",
+    "registry_target": "components/charts/chart-reveal-clip.tsx",
+    "local": "components/bklit/chart-reveal-clip.tsx",
+    "sha256_source": "581c6c978b513e552b8571eb5c573386b28291975a745ad46d3efef4e08af320",
+    "sha256_local": "581c6c978b513e552b8571eb5c573386b28291975a745ad46d3efef4e08af320"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/static-chart-preview-context.tsx",
+    "registry_target": "components/charts/static-chart-preview-context.tsx",
+    "local": "components/bklit/static-chart-preview-context.tsx",
+    "sha256_source": "231d750e55824c86c3f79fd18870bb43633cf47fae4c33f8c218fea7eab8f551",
+    "sha256_local": "231d750e55824c86c3f79fd18870bb43633cf47fae4c33f8c218fea7eab8f551"
+  },
+  {
+    "slug": "chart-animation",
+    "source": "src/charts/chart-defs.ts",
+    "registry_target": "components/charts/chart-defs.ts",
+    "local": "components/bklit/chart-defs.ts",
+    "sha256_source": "3450fd3a5b52169b6cbfb10ea87dc4ef8feafeefc5ace88ef45366051926d5d0",
+    "sha256_local": "3450fd3a5b52169b6cbfb10ea87dc4ef8feafeefc5ace88ef45366051926d5d0"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/chart-context.tsx",
+    "registry_target": "components/charts/chart-context.tsx",
+    "local": "components/bklit/chart-context.tsx",
+    "sha256_source": "77364c806fcda997cdabd8f9029f452e963aa16899c906c583f10b1a397c8b69",
+    "sha256_local": "77364c806fcda997cdabd8f9029f452e963aa16899c906c583f10b1a397c8b69"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/reference-area-config.ts",
+    "registry_target": "components/charts/reference-area-config.ts",
+    "local": "components/bklit/reference-area-config.ts",
+    "sha256_source": "6d5a08ea977f9181f78ebf7e32d5d1dd4f70fb4c645fa11006b9f62b45f223e5",
+    "sha256_local": "6d5a08ea977f9181f78ebf7e32d5d1dd4f70fb4c645fa11006b9f62b45f223e5"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/use-chart-interaction.ts",
+    "registry_target": "components/charts/use-chart-interaction.ts",
+    "local": "components/bklit/use-chart-interaction.ts",
+    "sha256_source": "a314867549e8f74154b380723285e440c6c10bb0e37a58520f4ce0fb7356e93a",
+    "sha256_local": "face76d80c64c4e89887f534ae421f13bb5f8070411ee6b2211ed3cd7f41f4e2"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/y-axis-scales.ts",
+    "registry_target": "components/charts/y-axis-scales.ts",
+    "local": "components/bklit/y-axis-scales.ts",
+    "sha256_source": "4bd7bfee4e0ef50e185ed96ed910af6236793663b5947f14778513b6e70a8fe1",
+    "sha256_local": "fd52947a30507f7a3a7de6eed1eb575a454f999692b4e1b683f3207faa691a3c"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/y-axis-ticks.ts",
+    "registry_target": "components/charts/y-axis-ticks.ts",
+    "local": "components/bklit/y-axis-ticks.ts",
+    "sha256_source": "2b8b5eae899adca35419007248a863566626919e651d611ee431b9f68cc1ed62",
+    "sha256_local": "dbbe50e831bc33cc37b5fcc51c6c27094ad79bbc031060356153577a9cf33668"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/chart-phase.ts",
+    "registry_target": "components/charts/chart-phase.ts",
+    "local": "components/bklit/chart-phase.ts",
+    "sha256_source": "1dd53632aa57857f0302c2f8376b1882da324451040f47b35fad50167a2f15a4",
+    "sha256_local": "4c6e1c20675218eb932c99743f58b8153e34eb6ec160000362c66ec8aef136a3"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/y-domain-utils.ts",
+    "registry_target": "components/charts/y-domain-utils.ts",
+    "local": "components/bklit/y-domain-utils.ts",
+    "sha256_source": "332d8ed6cbc7c88b88c1d487f35a3b70983c473752bb9d3a38ff1216fcbc3aa1",
+    "sha256_local": "332d8ed6cbc7c88b88c1d487f35a3b70983c473752bb9d3a38ff1216fcbc3aa1"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/filter-data-by-x-domain.ts",
+    "registry_target": "components/charts/filter-data-by-x-domain.ts",
+    "local": "components/bklit/filter-data-by-x-domain.ts",
+    "sha256_source": "cd4262b0f5bb84c54d49efa4565ec6f3a64870b7d7c1349dfe685ec6e198fdf4",
+    "sha256_local": "cd4262b0f5bb84c54d49efa4565ec6f3a64870b7d7c1349dfe685ec6e198fdf4"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/generate-chart-skeleton-data.ts",
+    "registry_target": "components/charts/generate-chart-skeleton-data.ts",
+    "local": "components/bklit/generate-chart-skeleton-data.ts",
+    "sha256_source": "7673a08792a7623133660473663da5e94bf519ddc54689bb024b7a2b78f58393",
+    "sha256_local": "7673a08792a7623133660473663da5e94bf519ddc54689bb024b7a2b78f58393"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/use-animated-y-domains.ts",
+    "registry_target": "components/charts/use-animated-y-domains.ts",
+    "local": "components/bklit/use-animated-y-domains.ts",
+    "sha256_source": "6c5b6883969bc1bb6bbb9c28d5a0918485d88a0b9a538f25c3adf62c0a031fed",
+    "sha256_local": "6c5b6883969bc1bb6bbb9c28d5a0918485d88a0b9a538f25c3adf62c0a031fed"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/use-chart-phase-orchestrator.ts",
+    "registry_target": "components/charts/use-chart-phase-orchestrator.ts",
+    "local": "components/bklit/use-chart-phase-orchestrator.ts",
+    "sha256_source": "0adccdadf7491d6a323966d99d7fc1f15dd610d9883ca70ab28575ab02f0c810",
+    "sha256_local": "0adccdadf7491d6a323966d99d7fc1f15dd610d9883ca70ab28575ab02f0c810"
+  },
+  {
+    "slug": "chart-context",
+    "source": "src/charts/line-loading-timing.ts",
+    "registry_target": "components/charts/line-loading-timing.ts",
+    "local": "components/bklit/line-loading-timing.ts",
+    "sha256_source": "e2328b4a9502014022dd671c6086ede1b6bd4ce8da02f04a8d251634bee0e4f4",
+    "sha256_local": "4f6ce47c02bace175e3d633afe1be508cbcdf5c78e7397b2243e73b24b4b1995"
+  },
+  {
+    "slug": "chart-parent-size",
+    "source": "src/charts/chart-parent-size.tsx",
+    "registry_target": "components/charts/chart-parent-size.tsx",
+    "local": "components/bklit/chart-parent-size.tsx",
+    "sha256_source": "a7b3162033183a1fff50b98bb90dd5b3add522685e3d068977cf517f1a0046c4",
+    "sha256_local": "a7b3162033183a1fff50b98bb90dd5b3add522685e3d068977cf517f1a0046c4"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/path-stroke-utils.ts",
+    "registry_target": "components/charts/path-stroke-utils.ts",
+    "local": "components/bklit/path-stroke-utils.ts",
+    "sha256_source": "3eb097eddf0f23858dbebaca3704406515422c621852eaf74feebab97dfefd10",
+    "sha256_local": "183ec2c01614a49f0fc8305e3388160d1b04ed03c8482ff3038054e81ef1b3dd"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/series-path-utils.ts",
+    "registry_target": "components/charts/series-path-utils.ts",
+    "local": "components/bklit/series-path-utils.ts",
+    "sha256_source": "dffa0bfd2d383551c479bff0cffc0bc0391b576cfccfbe345079cd477d1742f0",
+    "sha256_local": "dffa0bfd2d383551c479bff0cffc0bc0391b576cfccfbe345079cd477d1742f0"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/use-animated-series-path.ts",
+    "registry_target": "components/charts/use-animated-series-path.ts",
+    "local": "components/bklit/use-animated-series-path.ts",
+    "sha256_source": "7059edb2b2eef76aea875c33cfb90b9f4326bdbfb0519fb3c571fc03cd9cd33a",
+    "sha256_local": "7059edb2b2eef76aea875c33cfb90b9f4326bdbfb0519fb3c571fc03cd9cd33a"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/highlight-segment-bounds.ts",
+    "registry_target": "components/charts/highlight-segment-bounds.ts",
+    "local": "components/bklit/highlight-segment-bounds.ts",
+    "sha256_source": "017bf84de897c5a1a6564864ae43b94e30fc91e2ead91d056ef4e20cbe5d2366",
+    "sha256_local": "017bf84de897c5a1a6564864ae43b94e30fc91e2ead91d056ef4e20cbe5d2366"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/highlight-segment.tsx",
+    "registry_target": "components/charts/highlight-segment.tsx",
+    "local": "components/bklit/highlight-segment.tsx",
+    "sha256_source": "ef2bd45a0bcf8364d7b13a79adea99d3f43674667b9611479162c3f483574ecd",
+    "sha256_local": "ef2bd45a0bcf8364d7b13a79adea99d3f43674667b9611479162c3f483574ecd"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/dash-tail-stroke.tsx",
+    "registry_target": "components/charts/dash-tail-stroke.tsx",
+    "local": "components/bklit/dash-tail-stroke.tsx",
+    "sha256_source": "42e25bc552b9eab95f6960ae75a633c6c5dd515d38654ce954f2fcb1df6cee89",
+    "sha256_local": "42e25bc552b9eab95f6960ae75a633c6c5dd515d38654ce954f2fcb1df6cee89"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/series-dash-tail-overlay.tsx",
+    "registry_target": "components/charts/series-dash-tail-overlay.tsx",
+    "local": "components/bklit/series-dash-tail-overlay.tsx",
+    "sha256_source": "62425aae177b81d3ee730d3d379ed2e43e6ec998bd2d17851f01de265b434582",
+    "sha256_local": "62425aae177b81d3ee730d3d379ed2e43e6ec998bd2d17851f01de265b434582"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/series-highlight-layer.tsx",
+    "registry_target": "components/charts/series-highlight-layer.tsx",
+    "local": "components/bklit/series-highlight-layer.tsx",
+    "sha256_source": "6cc8e62338e19aa2c7a019173318b6721df80634cf9ba407db0ad1be9e899cba",
+    "sha256_local": "6cc8e62338e19aa2c7a019173318b6721df80634cf9ba407db0ad1be9e899cba"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/chart-legend-hover.tsx",
+    "registry_target": "components/charts/chart-legend-hover.tsx",
+    "local": "components/bklit/chart-legend-hover.tsx",
+    "sha256_source": "fb31f3648fed0aba2d92792ee943a6317b5051532d5738855bae24a496403882",
+    "sha256_local": "fb31f3648fed0aba2d92792ee943a6317b5051532d5738855bae24a496403882"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/series-hover-dim.tsx",
+    "registry_target": "components/charts/series-hover-dim.tsx",
+    "local": "components/bklit/series-hover-dim.tsx",
+    "sha256_source": "3eb2c82aa794c2b263bef2dba8bfe81ef9fb63b78891225d3cf951b0c89483ba",
+    "sha256_local": "3eb2c82aa794c2b263bef2dba8bfe81ef9fb63b78891225d3cf951b0c89483ba"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/series-point-marker.tsx",
+    "registry_target": "components/charts/series-point-marker.tsx",
+    "local": "components/bklit/series-point-marker.tsx",
+    "sha256_source": "e6e096b73cf947de476d1adae0b9bdc3030ebce84b515581e75abf5e3b63b892",
+    "sha256_local": "e6e096b73cf947de476d1adae0b9bdc3030ebce84b515581e75abf5e3b63b892"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/series-markers.tsx",
+    "registry_target": "components/charts/series-markers.tsx",
+    "local": "components/bklit/series-markers.tsx",
+    "sha256_source": "46e94b9365f431e13637de7809b1fa7222e712b6a8cce96b5c9e9ffa04bb15ed",
+    "sha256_local": "46e94b9365f431e13637de7809b1fa7222e712b6a8cce96b5c9e9ffa04bb15ed"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/use-highlight-segment.ts",
+    "registry_target": "components/charts/use-highlight-segment.ts",
+    "local": "components/bklit/use-highlight-segment.ts",
+    "sha256_source": "f037f586480baf8b9779ca361bdccb8ca09e6ef0324da4f6a89006aa6337535e",
+    "sha256_local": "f037f586480baf8b9779ca361bdccb8ca09e6ef0324da4f6a89006aa6337535e"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/area-gradient-defs.tsx",
+    "registry_target": "components/charts/area-gradient-defs.tsx",
+    "local": "components/bklit/area-gradient-defs.tsx",
+    "sha256_source": "4dd07b0a7fa5822f20a5287722c075aff0b9aa39411ad048f7a03b7dec4c7c42",
+    "sha256_local": "4dd07b0a7fa5822f20a5287722c075aff0b9aa39411ad048f7a03b7dec4c7c42"
+  },
+  {
+    "slug": "chart-series",
+    "source": "src/charts/fade-edges.ts",
+    "registry_target": "components/charts/fade-edges.ts",
+    "local": "components/bklit/fade-edges.ts",
+    "sha256_source": "cd89622c43b2501d4b583553215ab9389248295a300009a5c60f6caef1d4c8a9",
+    "sha256_local": "6e0dc62b7d8118f687aed412264a63eef8b09430eae48c4ba01f92df334f8a4f"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/chart-config-context.tsx",
+    "registry_target": "components/charts/chart-config-context.tsx",
+    "local": "components/bklit/chart-config-context.tsx",
+    "sha256_source": "65c9fae029556283adf951203679147f9708187df6ec62cbe961b4e250c0b210",
+    "sha256_local": "65c9fae029556283adf951203679147f9708187df6ec62cbe961b4e250c0b210"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/indicator-fade.ts",
+    "registry_target": "components/charts/indicator-fade.ts",
+    "local": "components/bklit/indicator-fade.ts",
+    "sha256_source": "e2d87a04e32b40e9452155d1ea841038f3d3bc3c55e4ec7bc26df18f9a28adf8",
+    "sha256_local": "8868837536cf01e03db6d2b23ebf84755cba0d2262b63b55d8bd2f2a164f1c30"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/chart-tooltip.tsx",
+    "registry_target": "components/charts/tooltip/chart-tooltip.tsx",
+    "local": "components/bklit/tooltip/chart-tooltip.tsx",
+    "sha256_source": "bbd382baeb35cf274097cf0f6d354b60b5afd5cc65d5a5b93a65bf9c6c7f8c52",
+    "sha256_local": "bbd382baeb35cf274097cf0f6d354b60b5afd5cc65d5a5b93a65bf9c6c7f8c52"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/tooltip-box.tsx",
+    "registry_target": "components/charts/tooltip/tooltip-box.tsx",
+    "local": "components/bklit/tooltip/tooltip-box.tsx",
+    "sha256_source": "858524faf9f6effbd9f7253ee2bd996e5255d5e4004d125f9fa4f96c436bb931",
+    "sha256_local": "858524faf9f6effbd9f7253ee2bd996e5255d5e4004d125f9fa4f96c436bb931"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/cursor-tooltip-box.tsx",
+    "registry_target": "components/charts/tooltip/cursor-tooltip-box.tsx",
+    "local": "components/bklit/tooltip/cursor-tooltip-box.tsx",
+    "sha256_source": "97247d3f1491686e8ad108d1077eae643d992d4687fb5e4d06d33ec3ce0c22fc",
+    "sha256_local": "97247d3f1491686e8ad108d1077eae643d992d4687fb5e4d06d33ec3ce0c22fc"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/tooltip-content.tsx",
+    "registry_target": "components/charts/tooltip/tooltip-content.tsx",
+    "local": "components/bklit/tooltip/tooltip-content.tsx",
+    "sha256_source": "c94c3ca64e7f18609b2fe13032e8eb806bf97924cf289c98dfeb027d97641c0c",
+    "sha256_local": "c94c3ca64e7f18609b2fe13032e8eb806bf97924cf289c98dfeb027d97641c0c"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/tooltip-dot.tsx",
+    "registry_target": "components/charts/tooltip/tooltip-dot.tsx",
+    "local": "components/bklit/tooltip/tooltip-dot.tsx",
+    "sha256_source": "50519a7866cc25080b9076ba71eaa905d5fa05b36154498a5b1d9f0c355c07e7",
+    "sha256_local": "50519a7866cc25080b9076ba71eaa905d5fa05b36154498a5b1d9f0c355c07e7"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/tooltip-indicator.tsx",
+    "registry_target": "components/charts/tooltip/tooltip-indicator.tsx",
+    "local": "components/bklit/tooltip/tooltip-indicator.tsx",
+    "sha256_source": "1f59d229e221865466c1fd502f756efb23bc0607a0943aa6401192c0d2d17bd0",
+    "sha256_local": "1f59d229e221865466c1fd502f756efb23bc0607a0943aa6401192c0d2d17bd0"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/use-delayed-tooltip-data.ts",
+    "registry_target": "components/charts/tooltip/use-delayed-tooltip-data.ts",
+    "local": "components/bklit/tooltip/use-delayed-tooltip-data.ts",
+    "sha256_source": "23362df0d4e2e8d00b13ba8d1ed999ebaf23655f41996779013800e61538ac96",
+    "sha256_local": "23362df0d4e2e8d00b13ba8d1ed999ebaf23655f41996779013800e61538ac96"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/date-ticker.tsx",
+    "registry_target": "components/charts/tooltip/date-ticker.tsx",
+    "local": "components/bklit/tooltip/date-ticker.tsx",
+    "sha256_source": "3ef86d2b838444d527719c5430f3d64c2545f94ea1e9665c2aeaa8c89fbdd7ba",
+    "sha256_local": "3ef86d2b838444d527719c5430f3d64c2545f94ea1e9665c2aeaa8c89fbdd7ba"
+  },
+  {
+    "slug": "chart-tooltip",
+    "source": "src/charts/tooltip/index.ts",
+    "registry_target": "components/charts/tooltip/index.ts",
+    "local": "components/bklit/tooltip/index.ts",
+    "sha256_source": "b4671e637f5d454ef381653ec9dd0c7767b110f7fd0f22f75ed34c666ccfbcfe",
+    "sha256_local": "b4671e637f5d454ef381653ec9dd0c7767b110f7fd0f22f75ed34c666ccfbcfe"
+  },
+  {
+    "slug": "chart-utils",
+    "source": "src/charts/chart-formatters.ts",
+    "registry_target": "components/charts/chart-formatters.ts",
+    "local": "components/bklit/chart-formatters.ts",
+    "sha256_source": "253bb94195523745577b38825b2ea7c4b7f00e2370e54743060c7c2f1ab6093c",
+    "sha256_local": "253bb94195523745577b38825b2ea7c4b7f00e2370e54743060c7c2f1ab6093c"
+  },
+  {
+    "slug": "chart-utils",
+    "source": "src/charts/decimate-time-series.ts",
+    "registry_target": "components/charts/decimate-time-series.ts",
+    "local": "components/bklit/decimate-time-series.ts",
+    "sha256_source": "5b9cb92a94b34f4de5de550c87404833f0a215aceb1f28213cad0bdfb57ba47c",
+    "sha256_local": "759d7bd0011d78c77cf70e2abe51b48d52c27aae5df96d4bc6790b19a528030a"
+  },
+  {
+    "slug": "chart-utils",
+    "source": "src/charts/use-scheduled-tooltip.ts",
+    "registry_target": "components/charts/use-scheduled-tooltip.ts",
+    "local": "components/bklit/use-scheduled-tooltip.ts",
+    "sha256_source": "949f92d67d4469dc7358f09d1fc7b0178d1431a4fe9d19c03c5988051df37ecb",
+    "sha256_local": "949f92d67d4469dc7358f09d1fc7b0178d1431a4fe9d19c03c5988051df37ecb"
+  },
+  {
+    "slug": "grid",
+    "source": "src/charts/grid.tsx",
+    "registry_target": "components/charts/grid.tsx",
+    "local": "components/bklit/grid.tsx",
+    "sha256_source": "f2ad9cd94ba3b2df6cd4b15d6a7ea7bff4b2e577a5a18e820e3eb1684956717c",
+    "sha256_local": "f2ad9cd94ba3b2df6cd4b15d6a7ea7bff4b2e577a5a18e820e3eb1684956717c"
+  },
+  {
+    "slug": "grid",
+    "source": "src/charts/use-grid-shimmer.ts",
+    "registry_target": "components/charts/use-grid-shimmer.ts",
+    "local": "components/bklit/use-grid-shimmer.ts",
+    "sha256_source": "cc3f402c8b6215fcaa7707a3181085b9e77e936a610575b08a0df4bea35141fb",
+    "sha256_local": "cc3f402c8b6215fcaa7707a3181085b9e77e936a610575b08a0df4bea35141fb"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/pie-chart.tsx",
+    "registry_target": "components/charts/pie-chart.tsx",
+    "local": "components/bklit/pie-chart.tsx",
+    "sha256_source": "870b11e67a761a0e83de4b091cce69568bc94c53fe37c4eb990134505f7fd4e0",
+    "sha256_local": "6a33c47b0fb52c2792be49167176dfb589d1b96c2752db701fd174b9afb8ed3f"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/pie-context.tsx",
+    "registry_target": "components/charts/pie-context.tsx",
+    "local": "components/bklit/pie-context.tsx",
+    "sha256_source": "c3ebffd2c228c5e3973e824c3442b368ada81396bad45d393fb7d1c2b8495df5",
+    "sha256_local": "c3ebffd2c228c5e3973e824c3442b368ada81396bad45d393fb7d1c2b8495df5"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/pie-slice.tsx",
+    "registry_target": "components/charts/pie-slice.tsx",
+    "local": "components/bklit/pie-slice.tsx",
+    "sha256_source": "a5ace0747238a74cbd23dee90bed0a48d64a9b78b8012e6852302059dd2b4e0a",
+    "sha256_local": "a5ace0747238a74cbd23dee90bed0a48d64a9b78b8012e6852302059dd2b4e0a"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/chart-stat-flow.tsx",
+    "registry_target": "components/charts/chart-stat-flow.tsx",
+    "local": "components/bklit/chart-stat-flow.tsx",
+    "sha256_source": "687499a57c5e0493e710396badfe106f939a308dcda73e75966ea49b24819139",
+    "sha256_local": "687499a57c5e0493e710396badfe106f939a308dcda73e75966ea49b24819139"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/pie-center-shell.tsx",
+    "registry_target": "components/charts/pie-center-shell.tsx",
+    "local": "components/bklit/pie-center-shell.tsx",
+    "sha256_source": "e717ffc06b241d80da5a5d32f7f4b1584683ce29dd23cc702477120cc4277fd2",
+    "sha256_local": "e717ffc06b241d80da5a5d32f7f4b1584683ce29dd23cc702477120cc4277fd2"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/pie-center.tsx",
+    "registry_target": "components/charts/pie-center.tsx",
+    "local": "components/bklit/pie-center.tsx",
+    "sha256_source": "16a85d0e51ef6e6fc094d7b3cb482bb6819707cba1c07a7f57de1178a6123c31",
+    "sha256_local": "16a85d0e51ef6e6fc094d7b3cb482bb6819707cba1c07a7f57de1178a6123c31"
+  },
+  {
+    "slug": "pie-chart",
+    "source": "src/charts/chart-center-typography.ts",
+    "registry_target": "components/charts/chart-center-typography.ts",
+    "local": "components/bklit/chart-center-typography.ts",
+    "sha256_source": "5b76892ad167d83f58817f0d4af2d52283623a2501e810d2fc126872d2843dac",
+    "sha256_local": "cc8f154f4ad00722ba3d8a2bd5beead5954f95e71014784c925646f905b1ced7"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/scatter-chart.tsx",
+    "registry_target": "components/charts/scatter-chart.tsx",
+    "local": "components/bklit/scatter-chart.tsx",
+    "sha256_source": "04735394b981706852deab5570212b02cec275f76b94019e614eee705ce476c2",
+    "sha256_local": "f7d937e77a8d86301dff4c0471a9ac20d8366359bac994bf2e661ccf8c05f00e"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/scatter-chart-shell.tsx",
+    "registry_target": "components/charts/scatter-chart-shell.tsx",
+    "local": "components/bklit/scatter-chart-shell.tsx",
+    "sha256_source": "b5b70c62088d01de8b729ad72d5306d65404fa5da73c4ff5ccf11491c13b156c",
+    "sha256_local": "17e99a8f567091d5f1b389867f84bf82ad8f555fa5b2a3d439624a5d4111aee4"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/time-series-chart-shell.tsx",
+    "registry_target": "components/charts/time-series-chart-shell.tsx",
+    "local": "components/bklit/time-series-chart-shell.tsx",
+    "sha256_source": "0999409d43ea3584032a1779d823e90065cf7c548165ebb1ff726e9166814e91",
+    "sha256_local": "ccfe325d8483891308d6e6b25c7e957c67a3f44d725d3b02ec3e323c75a55a48"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/reference-area-registration-context.tsx",
+    "registry_target": "components/charts/reference-area-registration-context.tsx",
+    "local": "components/bklit/reference-area-registration-context.tsx",
+    "sha256_source": "1bdf081f8d454f6e9b678d4b470aabbade8fb7b47d9bcf8a44e05887e11aa347",
+    "sha256_local": "1bdf081f8d454f6e9b678d4b470aabbade8fb7b47d9bcf8a44e05887e11aa347"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/projection-config.ts",
+    "registry_target": "components/charts/projection-config.ts",
+    "local": "components/bklit/projection-config.ts",
+    "sha256_source": "fb7e04bbaac83119bcbe5fcfea4c2c713d80ec3cf65dc8a427d506edeca4bf59",
+    "sha256_local": "fb7e04bbaac83119bcbe5fcfea4c2c713d80ec3cf65dc8a427d506edeca4bf59"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/band-config.ts",
+    "registry_target": "components/charts/band-config.ts",
+    "local": "components/bklit/band-config.ts",
+    "sha256_source": "33ac4a3361d0ea0159475fcec6d02a7e97c017b0d48964793a0f4fddb83bcc60",
+    "sha256_local": "33ac4a3361d0ea0159475fcec6d02a7e97c017b0d48964793a0f4fddb83bcc60"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/projection-utils.ts",
+    "registry_target": "components/charts/projection-utils.ts",
+    "local": "components/bklit/projection-utils.ts",
+    "sha256_source": "a7d6c269220dcce466e2eaf620081d488fbef1a372ed3d9cff4fd76298232e0f",
+    "sha256_local": "a7d6c269220dcce466e2eaf620081d488fbef1a372ed3d9cff4fd76298232e0f"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/chart-child-passthrough.ts",
+    "registry_target": "components/charts/chart-child-passthrough.ts",
+    "local": "components/bklit/chart-child-passthrough.ts",
+    "sha256_source": "3a8eeaf2dca433f608839697810fb4890a082505b49b13202afad03024272ed1",
+    "sha256_local": "3a8eeaf2dca433f608839697810fb4890a082505b49b13202afad03024272ed1"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/series-bar-layout.ts",
+    "registry_target": "components/charts/series-bar-layout.ts",
+    "local": "components/bklit/series-bar-layout.ts",
+    "sha256_source": "3e834065bf086275b263b2f5a0737a544dc4dfbfc7aa533191fcd0365feefb2c",
+    "sha256_local": "3e834065bf086275b263b2f5a0737a544dc4dfbfc7aa533191fcd0365feefb2c"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/scatter.tsx",
+    "registry_target": "components/charts/scatter.tsx",
+    "local": "components/bklit/scatter.tsx",
+    "sha256_source": "6c9f6887a144ebfec482b91b8366cee39b3e8f6c62acaa6e1e3ce213b6b794ad",
+    "sha256_local": "6c9f6887a144ebfec482b91b8366cee39b3e8f6c62acaa6e1e3ce213b6b794ad"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/use-scatter-chart-interaction.ts",
+    "registry_target": "components/charts/use-scatter-chart-interaction.ts",
+    "local": "components/bklit/use-scatter-chart-interaction.ts",
+    "sha256_source": "570e19e322a33cbe6bd41a5b48ff02df289ff3d4bffe78ac8b78b7b74e0c8597",
+    "sha256_local": "ec622e29b25827bb48da02bb2e81acace4767744a2aa5112d5ab0c3d51566872"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/scatter-svg.ts",
+    "registry_target": "components/charts/scatter-svg.ts",
+    "local": "components/bklit/scatter-svg.ts",
+    "sha256_source": "cdda3631bb00019156287e1aab1552626d0ab21a33f578afc10c6aed29a087b3",
+    "sha256_local": "da7f64d983b7fc3daecfd37c131d13575351c0d62d5110d3947d183ac5d0d5af"
+  },
+  {
+    "slug": "scatter-chart",
+    "source": "src/charts/scatter-jitter.ts",
+    "registry_target": "components/charts/scatter-jitter.ts",
+    "local": "components/bklit/scatter-jitter.ts",
+    "sha256_source": "c952d999c3103c7b12bef3660f8e707cca56a8b675930b0d936f3cc962da1173",
+    "sha256_local": "c952d999c3103c7b12bef3660f8e707cca56a8b675930b0d936f3cc962da1173"
+  },
+  {
+    "slug": "shimmering-text",
+    "source": "src/shimmering-text.tsx",
+    "registry_target": "components/shimmering-text.tsx",
+    "local": "components/bklit/components/shimmering-text.tsx",
+    "sha256_source": "5b60cf1f5c1972722b49170f565d62794d6e6d4d3013ec101b6fa8a4f96a9e70",
+    "sha256_local": "5b60cf1f5c1972722b49170f565d62794d6e6d4d3013ec101b6fa8a4f96a9e70"
+  },
+  {
+    "slug": "x-axis",
+    "source": "src/charts/x-axis.tsx",
+    "registry_target": "components/charts/x-axis.tsx",
+    "local": "components/bklit/x-axis.tsx",
+    "sha256_source": "23636c310509afb92b89d6bbcee63a7f009f1edb3f6d094cb2838de7773c665c",
+    "sha256_local": "23636c310509afb92b89d6bbcee63a7f009f1edb3f6d094cb2838de7773c665c"
+  },
+  {
+    "slug": "x-axis",
+    "source": "src/charts/responsive-chart-label-count.ts",
+    "registry_target": "components/charts/responsive-chart-label-count.ts",
+    "local": "components/bklit/responsive-chart-label-count.ts",
+    "sha256_source": "b34a2a6c060c66f31d49956d21bd7f4787a32209fb116205418ee4851e7c094d",
+    "sha256_local": "b34a2a6c060c66f31d49956d21bd7f4787a32209fb116205418ee4851e7c094d"
+  },
+  {
+    "slug": "y-axis",
+    "source": "src/charts/y-axis.tsx",
+    "registry_target": "components/charts/y-axis.tsx",
+    "local": "components/bklit/y-axis.tsx",
+    "sha256_source": "1bfe09017ab206ae9e1551276ed80fd3ab417d2c271f9f2af93e58be6856e3f3",
+    "sha256_local": "38e929fec88169edc44180ce9eddc55c5fbec2efcc5ab308e0dc197a20c8f844"
+  },
+  {
+    "slug": "y-axis",
+    "source": "src/charts/reference-area-geometry.ts",
+    "registry_target": "components/charts/reference-area-geometry.ts",
+    "local": "components/bklit/reference-area-geometry.ts",
+    "sha256_source": "846c484c1a94faf0f0090783f408d586ba02e6c28dbe597c25241fad6fa9cda9",
+    "sha256_local": "846c484c1a94faf0f0090783f408d586ba02e6c28dbe597c25241fad6fa9cda9"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend.tsx",
+    "registry_target": "components/charts/legend/legend.tsx",
+    "local": "components/bklit/legend/legend.tsx",
+    "sha256_source": "5ed7c89bb9fa5169c44633dc3f34b88adec45b777d8ccc37bd9a91f75ae4029b",
+    "sha256_local": "5ed7c89bb9fa5169c44633dc3f34b88adec45b777d8ccc37bd9a91f75ae4029b"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend-context.tsx",
+    "registry_target": "components/charts/legend/legend-context.tsx",
+    "local": "components/bklit/legend/legend-context.tsx",
+    "sha256_source": "785bd323125e1411689f59a6eae0e4bc0410355c601f2d63b8be025cf437eeee",
+    "sha256_local": "785bd323125e1411689f59a6eae0e4bc0410355c601f2d63b8be025cf437eeee"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend-item.tsx",
+    "registry_target": "components/charts/legend/legend-item.tsx",
+    "local": "components/bklit/legend/legend-item.tsx",
+    "sha256_source": "73a127f0236f9e2d843f8005ccc2df8ca9a186cff10a7825645e7df622310312",
+    "sha256_local": "73a127f0236f9e2d843f8005ccc2df8ca9a186cff10a7825645e7df622310312"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend-label.tsx",
+    "registry_target": "components/charts/legend/legend-label.tsx",
+    "local": "components/bklit/legend/legend-label.tsx",
+    "sha256_source": "4975d53b4a599a9b9cfdfc7e8dd112dd4a7714a56e5aecd3833eeeff9d17c926",
+    "sha256_local": "4975d53b4a599a9b9cfdfc7e8dd112dd4a7714a56e5aecd3833eeeff9d17c926"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend-marker.tsx",
+    "registry_target": "components/charts/legend/legend-marker.tsx",
+    "local": "components/bklit/legend/legend-marker.tsx",
+    "sha256_source": "f91d8bf85aca881f96b9cb035505a84f499fa0fd1a594db16cd8b3a533651bc5",
+    "sha256_local": "f91d8bf85aca881f96b9cb035505a84f499fa0fd1a594db16cd8b3a533651bc5"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend-progress.tsx",
+    "registry_target": "components/charts/legend/legend-progress.tsx",
+    "local": "components/bklit/legend/legend-progress.tsx",
+    "sha256_source": "8e54a1f6b7cd866e634cb7757797aacb28949c85e697c11b9d2a368f5effcd6c",
+    "sha256_local": "8e54a1f6b7cd866e634cb7757797aacb28949c85e697c11b9d2a368f5effcd6c"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/legend-value.tsx",
+    "registry_target": "components/charts/legend/legend-value.tsx",
+    "local": "components/bklit/legend/legend-value.tsx",
+    "sha256_source": "c391e602d34d73b592b228760ebf2bb45c0f17fa993402b74031f7e22e9276f8",
+    "sha256_local": "c391e602d34d73b592b228760ebf2bb45c0f17fa993402b74031f7e22e9276f8"
+  },
+  {
+    "slug": "legend",
+    "source": "src/charts/legend/index.ts",
+    "registry_target": "components/charts/legend/index.ts",
+    "local": "components/bklit/legend/index.ts",
+    "sha256_source": "cde654610328d66e4c7263b343c7dd17a732999183530e1c319fb0089f63fb66",
+    "sha256_local": "3cd89b44c83ba6337876f47295e77db89f15c6a5dd3a0043fa23cc110b03c422"
+  }
+]

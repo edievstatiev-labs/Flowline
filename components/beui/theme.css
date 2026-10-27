@@ -1,0 +1,48 @@
+/* beUI theme roles, scoped to the review application.
+ * Source: https://beui.dev/theme.css · MIT (see ./LICENSE).
+ * Existing Inter/font roles and layout remain owned by the application.
+ */
+@theme inline {
+  --color-border-strong: var(--border-strong);
+  --color-danger: var(--danger);
+}
+
+.beui-theme {
+  --background: oklch(99% 0 0);
+  --foreground: oklch(15% 0 0);
+  --card: oklch(97% 0 0);
+  --card-foreground: var(--foreground);
+  --muted-foreground: oklch(50% 0 0);
+  --border: oklch(15% 0 0 / 0.08);
+  --border-strong: oklch(15% 0 0 / 0.16);
+  /* Deeper Be UI blue gives white button text 5.1:1 contrast. */
+  --primary: #006bd6;
+  --primary-foreground: #fff;
+  --secondary: var(--card);
+  --secondary-foreground: var(--foreground);
+  --muted: var(--card);
+  --popover: var(--card);
+  --popover-foreground: var(--foreground);
+  --accent: oklch(96% 0 0);
+  --accent-foreground: var(--foreground);
+  --danger: oklch(54% 0.22 25);
+  --destructive: var(--danger);
+  --input: var(--border-strong);
+  --ring: var(--primary);
+}
+
+.dark .beui-theme {
+  --background: #151515;
+  --foreground: oklch(96% 0 0);
+  --card: #1c1c1c;
+  --muted-foreground: oklch(69% 0 0);
+  --border: rgb(255 255 255 / 0.08);
+  --border-strong: rgb(255 255 255 / 0.16);
+  --accent: #242424;
+  --danger: oklch(72% 0.18 25);
+}
+
+.beui-theme :where(button, a, input, textarea, select):focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 3px;
+}

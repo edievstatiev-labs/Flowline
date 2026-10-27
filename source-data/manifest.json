@@ -1,0 +1,23 @@
+{
+  "retrieved_utc": "2026-10-27T19:58:00Z",
+  "retrieval_time_precision": "minute",
+  "synthetic": true,
+  "sources": [
+    {
+      "file": "run_history.csv",
+      "source_url": "https://drive.google.com/file/d/10WwroK3Hlz6t-uGgzxs6BH_Hd2jWl-Yx/view?usp=sharing",
+      "sha256": "2fc577dc51570868901692b8cbb181b03ee4b928c8903da2563849e20ddd5f15"
+    },
+    {
+      "file": "feedback.pdf",
+      "source_url": "https://drive.google.com/file/d/124kADuNWQEjBcQufSQFFkwUwNRV-77W3/view?usp=sharing",
+      "sha256": "5c87ec84281081dfcb2b0e751d7fc81fca601595d3fc77fc571ebcda238f8872"
+    }
+  ],
+  "derivative": {
+    "file": "feedback.md",
+    "source": "feedback.pdf",
+    "method": "pypdf text extraction; added heading and provenance note",
+    "sha256": "0f3b64d656e920431c9b8b9e8bfc6173b6f6c4c3245b5f7fa8eaf856329e6877"
+  }
+}

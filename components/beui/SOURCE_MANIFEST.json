@@ -1,0 +1,492 @@
+[
+  {
+    "slug": "agent-activity",
+    "source": "components/agents/agent-activity/index.tsx",
+    "local": "components/beui/agents/agent-activity/index.tsx",
+    "sha256_source": "6bf800ed0c5e2262a8f8ced52bc175e426958b827a559cddb86c9d9ea1382ab7",
+    "sha256_local": "0a82ddfc350716e70c6ee7ab675210dfc9b5e72491cfbe17f29cde00fb17bf69"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "components/agents/agent-activity/activity-row.tsx",
+    "local": "components/beui/agents/agent-activity/activity-row.tsx",
+    "sha256_source": "81eca79e4a921ab1862ff930a4177ba9098bb9f83b7356196cc1094dca2fa511",
+    "sha256_local": "f1f167c55c4be6e39f466fdb03f26b193b9ec5fa2e29fd009762117130b8bf25"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "components/agents/agent-activity/types.ts",
+    "local": "components/beui/agents/agent-activity/types.ts",
+    "sha256_source": "4e0038a255aead2d9d6aaf9dd9544346570d099928e7d361149ee8ab17ae39d3",
+    "sha256_local": "747ec84b8c49c6894f075b545e952b65216a79bbc409843bbcbdb34b97f04069"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "components/agents/agent-disclosure.tsx",
+    "local": "components/beui/agents/agent-disclosure.tsx",
+    "sha256_source": "5113ab48b4ff542edda92ace14d0c4de89e3e3f06fca9e354b133fec93ce4265",
+    "sha256_local": "1f122348351574f17c367d8d7dc3266c2c34a5ac7394b6afabdde40c11d602b2"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "components/agents/loading-states/thinking-shimmer.tsx",
+    "local": "components/beui/agents/loading-states/thinking-shimmer.tsx",
+    "sha256_source": "2879bd5fd406c014610be6f304bb4b71e1aac0ac6eec531de4cd3eba4827b7bf",
+    "sha256_local": "50e49176242609402b707b8750fe3d994566192d23c2213f0720221774ef19d2"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "components/motion/text-shimmer.tsx",
+    "local": "components/beui/text-shimmer.tsx",
+    "sha256_source": "a8ae8ca2966009a4c9d14085985cb2e571af1b5c75e8e64cb1f4dd99f3fb3236",
+    "sha256_local": "36b8b5b3bb8f25dbb15066aa900ab7c1b698a71582e65f7add53d9e27b9ee72c"
+  },
+  {
+    "slug": "agent-activity",
+    "source": "lib/text-shimmer.ts",
+    "local": "components/beui/lib/text-shimmer.ts",
+    "sha256_source": "b997e94846a75326464408132a569c9f33f26ba7373fe5f8f9c2214fec8e9fbd",
+    "sha256_local": "5082119a579ff9a2bb01aa1966fd7582c54c96634143edc255157b4f5f2e3ca4"
+  },
+  {
+    "slug": "alert",
+    "source": "components/motion/alert.tsx",
+    "local": "components/beui/alert.tsx",
+    "sha256_source": "d38e8e724ae84d66555865828f50b11e1eb7a26168ff883ad7a21b2fb4d62684",
+    "sha256_local": "d08c7f3c9943b57fe4b29c0e3565686de02adf6e8a333907389410e62561c402"
+  },
+  {
+    "slug": "alert",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "alert",
+    "source": "lib/presence-gate.tsx",
+    "local": "components/beui/lib/presence-gate.tsx",
+    "sha256_source": "f3c3911933dda28679c108281da9acc37e8f98bc28d7bb79ff63bc0e3aaa9c74",
+    "sha256_local": "b1fc53a4fa1a64303f0a554e7eb8da984d7433494739bc752e7f3dc12f869d7b"
+  },
+  {
+    "slug": "animated-badge",
+    "source": "components/motion/animated-badge.tsx",
+    "local": "components/beui/animated-badge.tsx",
+    "sha256_source": "cee6bd392379ef66ef97e5c85feb660dc748a38b97c5462d9d5f85b6bd8f1357",
+    "sha256_local": "7515633486408c944da742f05c1557fea8c1eb55e168355a2b47f21a06df624f"
+  },
+  {
+    "slug": "animated-badge",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "animated-toast-stack",
+    "source": "components/motion/animated-toast-stack.tsx",
+    "local": "components/beui/animated-toast-stack.tsx",
+    "sha256_source": "1ae4996089b744fbc480ad710115870b91999f240a38d9029b431775d994cabd",
+    "sha256_local": "61e124f0213f4fd6cacb732b0ea0b26c81bd15f590799b0af37a5a13586a36d5"
+  },
+  {
+    "slug": "animated-toast-stack",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "bouncy-accordion",
+    "source": "components/motion/bouncy-accordion.tsx",
+    "local": "components/beui/bouncy-accordion.tsx",
+    "sha256_source": "c961fc1498478ca562f6261f83ee25aff55fd1956668a288931dd3cdf9208367",
+    "sha256_local": "7e29d0076d4d209c1c1268d65d161073ec465b8196e48c0b1b1387c5a83f2e90"
+  },
+  {
+    "slug": "bouncy-accordion",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "breadcrumb",
+    "source": "components/motion/breadcrumb.tsx",
+    "local": "components/beui/breadcrumb.tsx",
+    "sha256_source": "d80c1c08728ab23c988db6d3d04d2fca7b49295d6e558e369d403d3468d10091",
+    "sha256_local": "826513a41a55caed11728b2f31b1557feb5f4469a4989b75fdb5344b33bd264f"
+  },
+  {
+    "slug": "breadcrumb",
+    "source": "components/motion/popover-morph.tsx",
+    "local": "components/beui/popover-morph.tsx",
+    "sha256_source": "b2bc2c9db80275203b7a069ea21b143a4219367e99a55e2615c2b9029aeb8965",
+    "sha256_local": "aff370c389d6d346e877280eb06a0af3321a55e070e0e65032631b9becb8cf6a"
+  },
+  {
+    "slug": "breadcrumb",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "breadcrumb",
+    "source": "lib/hooks/use-hover-capable.ts",
+    "local": "components/beui/lib/hooks/use-hover-capable.ts",
+    "sha256_source": "b5b9397bfa03859e04673c8f1817cf13ff55d2a9688955d6e0459ae70db90d06",
+    "sha256_local": "a4f5cd3b49cefc8bb033863d87f2900f6d444bd348bea02b908090f278977e01"
+  },
+  {
+    "slug": "breadcrumb",
+    "source": "components/motion/popover-position.ts",
+    "local": "components/beui/popover-position.ts",
+    "sha256_source": "a31a9dc602243c3966aa1043cfd41dec5c13df1a52c847e745c88cbf00cb1f2e",
+    "sha256_local": "7c97ba309ff84f881c5a40a9ef55233b416279f852fd239a7d97d3db9e387ac0"
+  },
+  {
+    "slug": "breadcrumb",
+    "source": "lib/focusable.ts",
+    "local": "components/beui/lib/focusable.ts",
+    "sha256_source": "54f7ad930f8f7467384fc734d6e92cbed9884a76796da0c0ab0794ffee942647",
+    "sha256_local": "8eed4e4d81fcd192dc48129ca545f8e80e9618b5587fa9153162fc7a6804b1e6"
+  },
+  {
+    "slug": "button-base",
+    "source": "components/motion/button/base.tsx",
+    "local": "components/beui/button/base.tsx",
+    "sha256_source": "4737eddd464cd7907a64e1af3f82a4aa9d6edc7e2c75dffae9a8052543a19173",
+    "sha256_local": "2c0f1fdd85924ee3be7c42ba829c2614a48edd49c8b3f241968fd5b880de1141"
+  },
+  {
+    "slug": "button-base",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "button-base",
+    "source": "lib/hooks/use-hover-capable.ts",
+    "local": "components/beui/lib/hooks/use-hover-capable.ts",
+    "sha256_source": "b5b9397bfa03859e04673c8f1817cf13ff55d2a9688955d6e0459ae70db90d06",
+    "sha256_local": "a4f5cd3b49cefc8bb033863d87f2900f6d444bd348bea02b908090f278977e01"
+  },
+  {
+    "slug": "card",
+    "source": "components/motion/card.tsx",
+    "local": "components/beui/card.tsx",
+    "sha256_source": "a4897c870b16da7de486f4e35104dde69bc62393e0f3ac1f462cbb08de975193",
+    "sha256_local": "8769c06a75ea222f1f3004c7337a5616778a83ba10bd0a29fbc4857d81bf5de1"
+  },
+  {
+    "slug": "card",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "collapsible",
+    "source": "components/motion/collapsible.tsx",
+    "local": "components/beui/collapsible.tsx",
+    "sha256_source": "4fdc3d92ee6698e4284fd34025d25e848c9a5fbb5828ee53b5508ced8bb19b19",
+    "sha256_local": "ffee949b7d91e2ae70d89febb0b647ff8a898349fe97defd04b1c09fc45a5900"
+  },
+  {
+    "slug": "collapsible",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "drawer",
+    "source": "components/motion/drawer.tsx",
+    "local": "components/beui/drawer.tsx",
+    "sha256_source": "3bf37bbbe03dcdebbf716e62e616c0499e030a6f0666e5c7042a4f980b013673",
+    "sha256_local": "fbe13acb36f25350021036543c480f203d04582f6bbfd6160e59f6d130114e63"
+  },
+  {
+    "slug": "drawer",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "drawer",
+    "source": "lib/hooks/use-focus-trap.ts",
+    "local": "components/beui/lib/hooks/use-focus-trap.ts",
+    "sha256_source": "faab917563064f16ef514f2286510f3a1471d0798e63276608647353c4f0e9f7",
+    "sha256_local": "f1007a61ac4fe9896a9923944311eda94f401cf5093e0bc3d4fd7f7d82b7f040"
+  },
+  {
+    "slug": "drawer",
+    "source": "lib/presence-gate.tsx",
+    "local": "components/beui/lib/presence-gate.tsx",
+    "sha256_source": "f3c3911933dda28679c108281da9acc37e8f98bc28d7bb79ff63bc0e3aaa9c74",
+    "sha256_local": "b1fc53a4fa1a64303f0a554e7eb8da984d7433494739bc752e7f3dc12f869d7b"
+  },
+  {
+    "slug": "input",
+    "source": "components/motion/input.tsx",
+    "local": "components/beui/input.tsx",
+    "sha256_source": "1467f467c24cf6c89fa88ce00acdc6e6cbd40f225bdb0c3a026b0773445e1475",
+    "sha256_local": "4e9158b548afe0ea2fff76e02ba4e72100ce46658862491948107d0afd06ad57"
+  },
+  {
+    "slug": "loader",
+    "source": "components/motion/loader.tsx",
+    "local": "components/beui/loader.tsx",
+    "sha256_source": "e78e8a30eb5fa90ae7740f89ec54fb28a3747cb8326fdd9a49ec8a6fd54e3717",
+    "sha256_local": "85a2587b083aebedd7072bdb2ff97a6d7961c5a67a85d1769d59f4a2f4e5b921"
+  },
+  {
+    "slug": "loader",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "select",
+    "source": "components/motion/select.tsx",
+    "local": "components/beui/select.tsx",
+    "sha256_source": "f53e3f754b272bfb7d785f322564a789feabb031c4eaf330cef061f024c14c03",
+    "sha256_local": "9d60ac4ae8085c1c774bdd52c8ef0743c747ccd2c474ce6aeaf84d1c9e89c623"
+  },
+  {
+    "slug": "select",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "select",
+    "source": "lib/hooks/use-listbox.ts",
+    "local": "components/beui/lib/hooks/use-listbox.ts",
+    "sha256_source": "7561866df702c9de817a3ccda78083a34806a7e696c7974619b295fb89198b95",
+    "sha256_local": "7fcf6ba1a78c6ab9b0989e6fc80498da1eae57bd606e985a221d428bb2fe63ab"
+  },
+  {
+    "slug": "select",
+    "source": "lib/hooks/use-on-open.ts",
+    "local": "components/beui/lib/hooks/use-on-open.ts",
+    "sha256_source": "40fe63a564880b119063066621dac972ad01da73481fc26996377565f82c0083",
+    "sha256_local": "c94076a2bb6894674dbe23fd7bfbb57db81d26680d5bea608de50702fa747f94"
+  },
+  {
+    "slug": "select",
+    "source": "lib/hooks/use-row-cursor.ts",
+    "local": "components/beui/lib/hooks/use-row-cursor.ts",
+    "sha256_source": "95afe34ad19661c405bbec11da7d32a7a84343e660492f46f578ead2aed8c750",
+    "sha256_local": "038dee917fb59718ef24da02c564c2f3a4613d2c3b4bd5f987d919b1267d6487"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/index.tsx",
+    "local": "components/beui/table/index.tsx",
+    "sha256_source": "7f84224ba94ff13168f7dca700b76e580228f7c8752a42417d11290337b4ccae",
+    "sha256_local": "2ed1535854c78efe6e192d13eeb572925d6f725a9fac35167101ed1eefcf46d2"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/editable-cell.tsx",
+    "local": "components/beui/table/editable-cell.tsx",
+    "sha256_source": "6e010b990dafee7d908bdb101b547bfd9580883a6d732fb48c71d9e8ae09b817",
+    "sha256_local": "119b223f8d40dc59d53d27b64a5dbfacf796345387486dc970a2aa6170d2afbc"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/row-handle.tsx",
+    "local": "components/beui/table/row-handle.tsx",
+    "sha256_source": "3934e553142a6beec7f4a370b9f6f57a07b3aea22657d23e30bf5f6371d6e58a",
+    "sha256_local": "d83242eea339a3335fadf9fa00deaa8f95c19c1c84b8005d813eed05cc8ee559"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/skeleton-rows.tsx",
+    "local": "components/beui/table/skeleton-rows.tsx",
+    "sha256_source": "bad1dea521f4bc9248e7d8608f6066d134fe8714463b44b5cb2336ff009e104e",
+    "sha256_local": "0aacd439bb6825ac07efdab2be168bb1945ba22405b4046fbceaa3f6b4e870be"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/table-header.tsx",
+    "local": "components/beui/table/table-header.tsx",
+    "sha256_source": "9ddf56acd57bc51dcaa5b3076d8f915e0568f0459308c8acf67635b7d869a417",
+    "sha256_local": "91885dbf582da1e32a7e93cfc9041faaa7ef9a04486f1baec8fb1a455d18f588"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/types.ts",
+    "local": "components/beui/table/types.ts",
+    "sha256_source": "6f78aadfd4149c53f8e5bda06dc4fbcbf8196ffdec36e4da799c7d0f0a673ef6",
+    "sha256_local": "dabc6ca5f9c34db9cb8b7fcdac1a4e4ef7727604cf1e3a72a47842eae52a5ef4"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/use-column-reorder.ts",
+    "local": "components/beui/table/use-column-reorder.ts",
+    "sha256_source": "26344a1389f47632c71163c13eb0ca36b5ded2296b454de6bd548e5e41414279",
+    "sha256_local": "cd1fcbb29a20f651f9d47a89f2896eeaaacd42597cab513d94067c4bfc7be9a9"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/use-column-resize.ts",
+    "local": "components/beui/table/use-column-resize.ts",
+    "sha256_source": "6a3c2cda505517a9dd4012005691b087058e15d2ec5e7c89a26b73dcb3ea0d4c",
+    "sha256_local": "244ed633dc9b414aad53f5ab827778360a6e5780112aae78b10910cc5232700c"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/use-column-sort.ts",
+    "local": "components/beui/table/use-column-sort.ts",
+    "sha256_source": "82ed0e6b68437d9c7295016212b75f9f194c1ab86959f8c7ecd1845453b1186b",
+    "sha256_local": "267daa87d139ec23ddb7230a3ad42fdd88a652d0f49502493b36bf77d9e4e297"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/use-row-selection.ts",
+    "local": "components/beui/table/use-row-selection.ts",
+    "sha256_source": "b160e0e9083da2df2d230fc553364e24bdeceab0ae04a7cac598b2a009aa9c92",
+    "sha256_local": "32d178074dee2f55780ce210f46b9402636b50ecd70b7a3197386946f8f0f205"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/utils.ts",
+    "local": "components/beui/table/utils.ts",
+    "sha256_source": "0d88d78dd533c6d55ce6ba888f4efc87d8a90f0aa9cdd4149c6e4b506f47b369",
+    "sha256_local": "dff109fd0d5517ee559162a44f7d1e430829af6954cbac19ca42fb6d16aa0ef8"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/checkbox.tsx",
+    "local": "components/beui/checkbox.tsx",
+    "sha256_source": "3712a02cc61c227fc935fa624f6bb4fd9f84ead5ef231f43d135bdca207d1c94",
+    "sha256_local": "d0b0813887be3b09107cf05f9714d74ad53054ce994381231817dba6d65d9c69"
+  },
+  {
+    "slug": "table",
+    "source": "components/motion/table/table-menu.tsx",
+    "local": "components/beui/table/table-menu.tsx",
+    "sha256_source": "358acf804b343dab15c6792823a643ea6e3eeedc6de4e65d3eb36353cc4f42f4",
+    "sha256_local": "bc085010c212a3027d56e270f68c3505e71613c2dd567d29d4d542de3b3a63fa"
+  },
+  {
+    "slug": "table",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "table",
+    "source": "lib/touch.ts",
+    "local": "components/beui/lib/touch.ts",
+    "sha256_source": "f2a15c243c86c8bd1abb6e2e65a423b3a4c45cc1d797ebd83997f21cd1beadb9",
+    "sha256_local": "efa703f06b51a78babbc319bb108a4ea145f46bf02d09a89ba5ac55f01f14d58"
+  },
+  {
+    "slug": "tabs",
+    "source": "components/motion/tabs.tsx",
+    "local": "components/beui/tabs.tsx",
+    "sha256_source": "828e457cae084b8479135aca0b7ff531810e5108745ad8c7bc6b0322fd073775",
+    "sha256_local": "b8d0b10e3feb8b3f10ce2d04d0b8503d30f7ec8127db34d4d88bc1890ade3739"
+  },
+  {
+    "slug": "tabs",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "tooltip",
+    "source": "components/motion/tooltip.tsx",
+    "local": "components/beui/tooltip.tsx",
+    "sha256_source": "4c07c9bef54cd7646d4e0c6c780894569d6a42b17fcb8871721546739b7ce8af",
+    "sha256_local": "31b7b4e1f4330775f0a0a165ef51e6de8040d32e75a91af6788090186d5e9045"
+  },
+  {
+    "slug": "tooltip",
+    "source": "components/motion/tooltip/grace.ts",
+    "local": "components/beui/tooltip/grace.ts",
+    "sha256_source": "a79f94a822560008bd903da1a939a6b76f8a2678daaf4733079afdb47d58f568",
+    "sha256_local": "d290ffbdade7de15dbb7db2170d78b64fe2e0a8b8ec5957d0f103ab1b2586f55"
+  },
+  {
+    "slug": "tooltip",
+    "source": "components/motion/tooltip/positioner.tsx",
+    "local": "components/beui/tooltip/positioner.tsx",
+    "sha256_source": "822fdab7bbe3767b3a78485be8351fb59518f53085a9294b2504a2d49e77e3fb",
+    "sha256_local": "e171b5d2258787aa0b0c15e324210aace0f1e3c55c97240f25850882054d4637"
+  },
+  {
+    "slug": "tooltip",
+    "source": "components/motion/tooltip/use-position.ts",
+    "local": "components/beui/tooltip/use-position.ts",
+    "sha256_source": "219252b6c13d8a9d320fee90155285a051716594aae89020679bc22069bb4ee9",
+    "sha256_local": "a36e4865c01ce70c7ea245f02f6b22097116b841575514621c3b589661439686"
+  },
+  {
+    "slug": "tooltip",
+    "source": "components/motion/tooltip-surface.tsx",
+    "local": "components/beui/tooltip-surface.tsx",
+    "sha256_source": "d082ccbc58b0ad10a4372245a6254f9a70095a55d869595d6bba778b23aba3f8",
+    "sha256_local": "0c1610b7fc75b08479aea3d190a32200bbd89e92429b6250aff8c761c0e7dd50"
+  },
+  {
+    "slug": "tooltip",
+    "source": "lib/hooks/use-dismiss.ts",
+    "local": "components/beui/lib/hooks/use-dismiss.ts",
+    "sha256_source": "b3243c39f363c9f9b33b528a2e720d5d48370e964b8c6c80747da423a4269a2a",
+    "sha256_local": "eea95c417991dd70a946926c275c3e8cb319174fb1163b29b6cdbb7a3d93f755"
+  },
+  {
+    "slug": "tooltip",
+    "source": "lib/hooks/use-hover-gesture.ts",
+    "local": "components/beui/lib/hooks/use-hover-gesture.ts",
+    "sha256_source": "d381531c81668faf22cada58671451f4e7b53cf8d8718d6768e485139810755d",
+    "sha256_local": "ea429c28ebc92915769285d25de9f48437cf5acfb4560340090ed3f9381a8636"
+  },
+  {
+    "slug": "tooltip",
+    "source": "lib/hooks/use-tap-gesture.ts",
+    "local": "components/beui/lib/hooks/use-tap-gesture.ts",
+    "sha256_source": "b91954bf9f1cdc1771b2a6eac815d2f4e2493cb2cde5f508b2d96509dd71aeee",
+    "sha256_local": "a83f4df6a36ed1782058a7cbaaa61986c2ba777938de77755eb893e18ba33e2a"
+  },
+  {
+    "slug": "tooltip",
+    "source": "lib/ease.ts",
+    "local": "components/beui/lib/ease.ts",
+    "sha256_source": "bdfa2814cffaa4d974a5fc8614868ddb89e0310a0ead9e7105f2e8132b219ff3",
+    "sha256_local": "91d75fee5d87483259189e13b0781cc750cd90a75afab5cf85546188f4d65871"
+  },
+  {
+    "slug": "tooltip",
+    "source": "lib/touch.ts",
+    "local": "components/beui/lib/touch.ts",
+    "sha256_source": "f2a15c243c86c8bd1abb6e2e65a423b3a4c45cc1d797ebd83997f21cd1beadb9",
+    "sha256_local": "efa703f06b51a78babbc319bb108a4ea145f46bf02d09a89ba5ac55f01f14d58"
+  },
+  {
+    "slug": "button-base",
+    "source": "lib/utils.ts",
+    "local": "lib/utils.ts",
+    "sha256_source": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d",
+    "sha256_local": "7c8c3dfc0cdd370d44932828eb067ef771c8fe7996693221d5d4b90af6d54f2d"
+  }
+]

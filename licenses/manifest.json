@@ -1,0 +1,44 @@
+[
+  {
+    "file": "bklit-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/bklit/bklit-ui/e303e47d9d0599be79b328c5f5098ec8605d9e97/LICENSE",
+    "retrieved_date": "2026-10-27",
+    "sha256": "16be6cbd42d38503150a67e508a94aacf5a216ec91074cac82513b0cb0bab259"
+  },
+  {
+    "file": "beui-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/starc007/ui-components/1572b0ed728836080df8925672df82ce11df6f76/LICENSE",
+    "retrieved_date": "2026-10-27",
+    "sha256": "9e27b491d5691a1bd95708e79de23beb2962f33fe6c1ee31ab639f43009a0b20"
+  },
+  {
+    "file": "fluid-functionalism-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/mickadesign/fluid-functionalism/main/LICENSE",
+    "retrieved_date": "2026-10-27",
+    "sha256": "3dc44f653f431ac7920c70f6f064a55a8852e6b7544499bb8506dfbfd351d2e1"
+  },
+  {
+    "file": "reui-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/keenthemes/reui/main/LICENSE.md",
+    "retrieved_date": "2026-10-27",
+    "sha256": "09592ffefa6512b68dd7aa9031bc50d5d39cfcc9da08288f5eb1f9d236baca66"
+  },
+  {
+    "file": "react-bits-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/DavidHDev/react-bits/main/LICENSE.md",
+    "retrieved_date": "2026-10-27",
+    "sha256": "4bdd1fa59a6b7d5954bc3b213dbc34e455c635a94bbcecf9293553797d0fad02"
+  },
+  {
+    "file": "shadcn-ui-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/shadcn-ui/ui/main/LICENSE.md",
+    "retrieved_date": "2026-10-27",
+    "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+  },
+  {
+    "file": "dejavu-fonts-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/dejavu-fonts/dejavu-fonts/master/LICENSE",
+    "retrieved_date": "2026-10-27",
+    "sha256": "7a083b136e64d064794c3419751e5c7dd10d2f64c108fe5ba161eae5e5958a93"
+  }
+]
